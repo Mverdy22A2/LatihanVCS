@@ -24,6 +24,7 @@ Untuk mengedit script melalui Git, Anda memerlukan file editor. Anda bebas mengg
 ![image](https://user-images.githubusercontent.com/115523263/196169549-da3a1491-bf86-418e-8a8d-9d4a2bf413a7.png)
 ## 7. Atur Path Environment
 Selanjutnya adalah pengaturan Path Environment. Path Environment berfungsi untuk mengeksekusi perintah perintah pada Git. Pilih Git from the command line and also from 3rd-party software agar saat menjalankan perintah Git dapat dikenali di Command Prompt (CMD) pada Windows.
+
 ![image](https://user-images.githubusercontent.com/115523263/196169669-910443e7-35e4-407c-86c0-f0bc7834de66.png)
 ## 8. Pilih Line Ending
 Selanjutnya, Anda perlu memilih pengaturan line ending. Klik Next untuk melanjutkan instalasi.
