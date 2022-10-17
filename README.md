@@ -1,1 +1,3 @@
 # LatihanVCS
+
+tutorial penggunaan git
